@@ -37,10 +37,10 @@ To design an **interactive Power BI dashboard** that helps hospital stakeholders
 3. **Dashboard Design**  
    - Create interactive report pages:  
      - **Landing**   [Landing ](https://github.com/Hospital-Records-Task/Hospital-Records-Task/blob/main/Dashboards%20Images/Home%20Page.png)
-     - **Encounters**  [Encounters]
-     - **Procedures**   [Procedures]
-     - **Revenue**   [Revenue]
-     - **Demographics**  [Demographics]
+     - **Encounters**  [Encounters](https://github.com/Hospital-Records-Task/Hospital-Records-Task/blob/main/Dashboards%20Images/Screenshot%202025-11-10%20005858.png)
+     - **Procedures**   [Procedures](https://github.com/Hospital-Records-Task/Hospital-Records-Task/blob/main/Dashboards%20Images/Screenshot%202025-11-10%20005910.png)
+     - **Revenue**   [Revenue](https://github.com/Hospital-Records-Task/Hospital-Records-Task/blob/main/Dashboards%20Images/Screenshot%202025-11-10%20005924.png)
+     - **Demographics**  [Demographics](https://github.com/Hospital-Records-Task/Hospital-Records-Task/blob/main/Dashboards%20Images/Screenshot%202025-11-10%20005938.png)
 
 
 4. **Testing**  
