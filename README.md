@@ -166,7 +166,7 @@ Findings indicate that Massachusetts General Hospital operates efficiently but s
 | **Aya Farid** | DAX Specialist | Measure creation, KPI calculation |
 | **Noha Yassin** | Visualization Expert | Dashboard design and theme formatting |
 | **Alshaymaa Mostafa** | Documentation Lead | Editing, documentation, and presentation design |
-
+Instructor: Abdelrahman Ashour
 ---
 
 ## 📜 License
